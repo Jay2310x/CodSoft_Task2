@@ -29,6 +29,6 @@ Linear regression model was trained on the training data using sklearn.linear_mo
 
 
 ### **Model Prediction**
-The model was used to predict sales based on advertising expenditure on Car for the test set using model.predict(X_test) and the corresponding advertising expenditure on car in the test set.<br>
-The model coefficients and intercept were obtained using model.coef_ and model.intercept_.<br>
-The predictions and actual sales values were plotted using matplotlib.pyplot.plot and matplotlib.pyplot.scatter.<br>
+1. The model was used to predict sales based on advertising expenditure on Car for the test set using model.predict(X_test) and the corresponding advertising expenditure on car in the test set.<br>
+2. The model coefficients and intercept were obtained using model.coef_ and model.intercept_.<br>
+3. The predictions and actual sales values were plotted using matplotlib.pyplot.plot and matplotlib.pyplot.scatter.<br>
